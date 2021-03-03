@@ -1,0 +1,11 @@
+/Users/liaomm/Documents/myapple/geektime-java/geekbang-lessons/projects/stage-0/user-platform/user-web/src/main/java/org/geektimes/function/ThrowableFunction.java
+/Users/liaomm/Documents/myapple/geektime-java/geekbang-lessons/projects/stage-0/user-platform/user-web/src/main/java/org/geektimes/projects/user/repository/InMemoryUserRepository.java
+/Users/liaomm/Documents/myapple/geektime-java/geekbang-lessons/projects/stage-0/user-platform/user-web/src/main/java/org/geektimes/projects/user/web/controller/RegisterController.java
+/Users/liaomm/Documents/myapple/geektime-java/geekbang-lessons/projects/stage-0/user-platform/user-web/src/main/java/org/geektimes/projects/user/web/listener/DBConnectionInitializerListener.java
+/Users/liaomm/Documents/myapple/geektime-java/geekbang-lessons/projects/stage-0/user-platform/user-web/src/main/java/org/geektimes/projects/user/sql/DBConnectionManager.java
+/Users/liaomm/Documents/myapple/geektime-java/geekbang-lessons/projects/stage-0/user-platform/user-web/src/main/java/org/geektimes/projects/user/web/controller/HelloWorldController.java
+/Users/liaomm/Documents/myapple/geektime-java/geekbang-lessons/projects/stage-0/user-platform/user-web/src/main/java/org/geektimes/projects/user/service/UserService.java
+/Users/liaomm/Documents/myapple/geektime-java/geekbang-lessons/projects/stage-0/user-platform/user-web/src/main/java/org/geektimes/projects/user/web/filter/CharsetEncodingFilter.java
+/Users/liaomm/Documents/myapple/geektime-java/geekbang-lessons/projects/stage-0/user-platform/user-web/src/main/java/org/geektimes/projects/user/repository/UserRepository.java
+/Users/liaomm/Documents/myapple/geektime-java/geekbang-lessons/projects/stage-0/user-platform/user-web/src/main/java/org/geektimes/projects/user/repository/DatabaseUserRepository.java
+/Users/liaomm/Documents/myapple/geektime-java/geekbang-lessons/projects/stage-0/user-platform/user-web/src/main/java/org/geektimes/projects/user/domain/User.java
